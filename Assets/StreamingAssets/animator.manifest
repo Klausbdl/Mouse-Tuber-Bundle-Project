@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 1552095523
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4853feafa5aeec46909731182f88a061
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e8df1f9f82371e82de919a94edcc7dd6
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4853feafa5aeec46909731182f88a061
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Walking_Left.anim
+- Assets/AssetBundles/animator/T-Pose.anim
+- Assets/AssetBundles/animator/Idle 2.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Walking_Right.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_JumpLoop.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_JumpEnd.anim
+- Assets/AssetBundles/animator/Idle 1.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_JumpStart.anim
+- Assets/AssetBundles/animator/Jiangshi Zombie.anim
+- Assets/AssetBundles/animator/Fall flat 1.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Idle.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Walking_Backwards.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Crouch_Backwards.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Crouch_Right.anim
+- Assets/AssetBundles/animator/animator_animator.controller
+- Assets/AssetBundles/animator/Cross Sitting 2.anim
+- Assets/AssetBundles/animator/Cross Sitting 1.anim
+- Assets/AssetBundles/animator/Laying Legs.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Crouch_Idle.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Crouch_Forward.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Walking_Forward.anim
+- Assets/AssetBundles/animator/Locomotion/Locomotion_Crouch_Left.anim
+- Assets/AssetBundles/animator/Selfie.anim
+Dependencies: []

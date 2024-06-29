@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+CRC: 1565569036
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ab9d63c4b4d0705bed8a868f2d53e490
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30e1eb17666951a5b6211a8de7c81dc
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ab9d63c4b4d0705bed8a868f2d53e490
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/klausbundle/assets/Headpat Animation.anim
+- Assets/AssetBundles/klausbundle/assets/Klausbdl_obj.fbx
+- Assets/AssetBundles/klausbundle/assets/Headpat Frames.png
+- Assets/AssetBundles/klausbundle/assets/mat_klausbdl.mat
+- Assets/AssetBundles/klausbundle/Default Cube_asset.prefab
+- Assets/AssetBundles/klausbundle/assets/Suzanne.fbx
+- Assets/AssetBundles/klausbundle/assets/tex_klausbdl.png
+- Assets/AssetBundles/klausbundle/Klausbdl_model.prefab
+- Assets/AssetBundles/klausbundle/assets/Headpat Animator.controller
+- Assets/AssetBundles/klausbundle/assets/Objects_Headpat.prefab
+Dependencies: []

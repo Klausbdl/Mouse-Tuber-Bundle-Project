@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 446857258
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: animator
+      Dependencies: {}
+    Info_1:
+      Name: roomsbundle
+      Dependencies: {}
+    Info_2:
+      Name: klausbundle
+      Dependencies: {}
+    Info_3:
+      Name: throwables
+      Dependencies:
+        Dependency_0: klausbundle
+    Info_4:
+      Name: skiesbundle
+      Dependencies: {}

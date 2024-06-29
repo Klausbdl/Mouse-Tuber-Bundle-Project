@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 1990829947
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6d3dee04d4e8306bcec5100744294fc9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 29106c8127853cf97021eeee8abec6d1
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6d3dee04d4e8306bcec5100744294fc9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/klausbundle/Default Cube_throwable.prefab
+- Assets/AssetBundles/klausbundle/Suzanne_throwable.prefab
+Dependencies:
+- C:/Users/Admin/Documents/Unity Projects/Mouse Tuber Bundle Project/Mouse-Tuber-Bundle-Project/Assets/StreamingAssets/klausbundle

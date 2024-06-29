@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1650644289
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 70c83725f8a0c2001cfc50440a224df3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b30fce1a9ad74efb72be6c308c56e365
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 70c83725f8a0c2001cfc50440a224df3
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundles/skiesbundle/tex_Sky Stars.png
+- Assets/AssetBundles/skiesbundle/Sky Stars_skybox.mat
+- Assets/AssetBundles/skiesbundle/tex_Sky Midnight.png
+- Assets/AssetBundles/skiesbundle/Sky Day_skybox.mat
+- Assets/AssetBundles/skiesbundle/tex_Sky Day.png
+- Assets/AssetBundles/skiesbundle/Sky Midnight_skybox.mat
+Dependencies: []
