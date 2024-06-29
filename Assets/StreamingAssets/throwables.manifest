@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1990829947
+CRC: 2061671126
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 6d3dee04d4e8306bcec5100744294fc9
+    Hash: cf73200684d7996ae251649588b3434c
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 29106c8127853cf97021eeee8abec6d1
+    Hash: d4b48cf36febec45463e1307b0c68311
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 6d3dee04d4e8306bcec5100744294fc9
+    Hash: cf73200684d7996ae251649588b3434c
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -19,6 +19,8 @@ ClassTypes:
 - Class: 21
   Script: {instanceID: 0}
 - Class: 23
+  Script: {instanceID: 0}
+- Class: 28
   Script: {instanceID: 0}
 - Class: 33
   Script: {instanceID: 0}
@@ -34,7 +36,9 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundles/klausbundle/Default Cube_throwable.prefab
-- Assets/AssetBundles/klausbundle/Suzanne_throwable.prefab
+- Assets/AssetBundles/throwables/Default Cube_throwable.prefab
+- Assets/AssetBundles/throwables/mat_checker.mat
+- Assets/AssetBundles/throwables/Suzanne_throwable.prefab
+- Assets/AssetBundles/throwables/Suzanne.fbx
 Dependencies:
-- C:/Users/Admin/Documents/Unity Projects/Mouse Tuber Bundle Project/Mouse-Tuber-Bundle-Project/Assets/StreamingAssets/klausbundle
+- C:/Users/Admin/Documents/Unity Projects/Mouse Tuber Bundle Project/Mouse-Tuber-Bundle-Project/Assets/StreamingAssets/roomsbundle

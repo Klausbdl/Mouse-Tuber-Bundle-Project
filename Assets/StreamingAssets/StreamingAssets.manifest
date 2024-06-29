@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 446857258
+CRC: 116617712
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -14,7 +14,7 @@ AssetBundleManifest:
     Info_3:
       Name: throwables
       Dependencies:
-        Dependency_0: klausbundle
+        Dependency_0: roomsbundle
     Info_4:
       Name: skiesbundle
       Dependencies: {}

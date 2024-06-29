@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1565569036
+CRC: 2613922434
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ab9d63c4b4d0705bed8a868f2d53e490
+    Hash: bc1c1be2e34fe61814682eb26dd59aa1
   TypeTreeHash:
     serializedVersion: 2
     Hash: b30e1eb17666951a5b6211a8de7c81dc
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: ab9d63c4b4d0705bed8a868f2d53e490
+    Hash: bc1c1be2e34fe61814682eb26dd59aa1
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -57,7 +57,6 @@ Assets:
 - Assets/AssetBundles/klausbundle/assets/Headpat Frames.png
 - Assets/AssetBundles/klausbundle/assets/mat_klausbdl.mat
 - Assets/AssetBundles/klausbundle/Default Cube_asset.prefab
-- Assets/AssetBundles/klausbundle/assets/Suzanne.fbx
 - Assets/AssetBundles/klausbundle/assets/tex_klausbdl.png
 - Assets/AssetBundles/klausbundle/Klausbdl_model.prefab
 - Assets/AssetBundles/klausbundle/assets/Headpat Animator.controller
